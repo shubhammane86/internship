@@ -1,2 +1,2 @@
 # CodSoft
-i developed this number game using java language
+i developed this number game using java language 
